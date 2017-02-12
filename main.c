@@ -4,7 +4,7 @@ int main(int argc, const char * argv[]) {
     
     int x ;
     
-    printf("请输入一个数以判断是非为素数:\n");
+    printf("请输入一个数以判断是否为素数:\n");
     scanf("%d",&x);
     
     int i ;
